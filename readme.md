@@ -1,0 +1,1 @@
+# Cordova in Docker image
